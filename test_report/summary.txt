@@ -1,0 +1,9 @@
+Host: 13b6db9d1669 (posix)
+Scan time (UTC): 2026-02-18T22:15:55.208602Z
+
+Listening services: 3 found
+  • 0.0.0.0:873 (unknown) – proc: unknown, risks: Publicly exposed port
+  • 0.0.0.0:8888 (unknown) – proc: python, risks: Publicly exposed port
+  • :::873 (unknown) – proc: unknown, risks: Publicly exposed port
+
+Environment files with potential secrets: 0 found
